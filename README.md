@@ -3,3 +3,4 @@ Some new repository
 It readme file about my project!
 Привет всем!
 Добавка строки.
+Строка в ветке 1.
